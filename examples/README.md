@@ -2,13 +2,13 @@
 
 ## Vision models examples
 
-[mnist_mlp.py](mnist_mlp.py)
+- [mnist_mlp.py](mnist_mlp.py)
 Trains a simple deep multi-layer perceptron on the MNIST dataset.
 
-[mnist_cnn.py](mnist_cnn.py)
+- [mnist_cnn.py](mnist_cnn.py)
 Trains a simple convnet on the MNIST dataset.
 
-[cifar10_cnn.py](cifar10_cnn.py)
+- [cifar10_cnn.py](cifar10_cnn.py)
 Trains a simple deep CNN on the CIFAR10 small images dataset.
 
 [cifar10_resnet.py](cifar10_resnet.py)
@@ -16,7 +16,7 @@ Trains a ResNet on the CIFAR10 small images dataset.
 
 [conv_lstm.py](conv_lstm.py)
 Demonstrates the use of a convolutional LSTM network.
-
+0a12:0001
 [image_ocr.py](image_ocr.py)
 Trains a convolutional stack followed by a recurrent stack and a CTC logloss function to perform optical character recognition (OCR).
 
